@@ -51,7 +51,7 @@ Welcome to the Task Management and Reminder Bot project! This Telegram bot helps
 
     ```plaintext
     TELEGRAM_TOKEN=your-telegram-bot-token
-    MONGO_URI=your-mongodb-uri
+    MONGO_URI=mongodb://username:password@host:port/database
     GOOGLE_CLIENT_ID=your-google-client-id
     GOOGLE_CLIENT_SECRET=your-google-client-secret
     GOOGLE_REDIRECT_URI=your-google-redirect-uri
