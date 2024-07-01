@@ -113,5 +113,5 @@ This project is licensed under the MIT License. See the [LICENSE] file for detai
 
 ---
 
-Thank you for checking out the Task Management and Reminder Bot project! If you find it useful, please give it a star on GitHub and share it with others.
+Thank you for checking out the Task Management and Reminder Bot project! If you find it useful, please give it a star and share it with others.
 
