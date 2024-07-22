@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen.svg)
 
-## Overview 
+## Overview  
 
 The **Task Bot** is a Telegram bot designed to help users manage their tasks efficiently. It allows users to add, update, delete, and view their tasks directly within Telegram. Built with Python and MongoDB, this bot provides a simple yet powerful task management solution.
 
