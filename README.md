@@ -16,7 +16,7 @@ The **Task Bot** is a Telegram bot designed to help users manage their tasks eff
 - View all tasks
 
 ## Technologies Used
-
+ 
 - **Programming Language**: Python
 - **Database**: MongoDB
 - **APIs**: Telegram Bot API 
