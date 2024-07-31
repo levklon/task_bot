@@ -19,8 +19,8 @@ db = client.get_database('task_bot_db')
 app = FastAPI()
 
 def set_webhook():
-    URL = "https://task-rlo12occo-byte-work-solution.vercel.app"
-    webhook_url = f"{URL}{TELEGRAM_BOT_TOKEN}"
+    URL = "https://task-ee43pyvgy-byte-work-solution.vercel.app"
+    webhook_url = f"{URL}/{TELEGRAM_BOT_TOKEN}"
     response = requests.get(f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/setWebhook?url={webhook_url}")
     print(response.json())
 
